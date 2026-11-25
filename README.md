@@ -1,2 +1,2 @@
 # drafter-deployment-template-v1
-Your first Drafter website!
+Example to show students for my CS1 class 
